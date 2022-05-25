@@ -10,8 +10,8 @@ I'm a graduate in Computer Science 🎓 from An-Najah University 🏛. I'm a pas
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Rest, Puppeteer , <br />Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently working as a Backend Development.
+- 🛠 &nbsp; working with Nodejs, Rest, Puppeteer, Mongodb, Javascript, etc.
 - 📫 &nbsp; How to reach me: H.OsamaSaw@gmail.com. I'll try to respond as soon as I can.
 <!-- - 📝 &nbsp; Checkout my [Resume]().-->
 
